@@ -47,7 +47,7 @@ h1 {
 }
 
 #lightMode .jumbotron {
-    background-image: linear-gradient( #cecece46,#c0c0c02c), url("asset/images/bg.jpg");
+    background-image: linear-gradient( #cecece46,#c0c0c02c), url("asset/bg.jpg");
     height: 100vh;
     background-size: cover;
     color: black;
